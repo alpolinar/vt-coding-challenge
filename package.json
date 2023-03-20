@@ -1,0 +1,12 @@
+{
+  "name": "vt-coding-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alpolinar/vt-coding-challenge.git",
+  "author": "Al Polinar <alpolinar@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
